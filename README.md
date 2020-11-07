@@ -16,10 +16,10 @@
 
 * O usuário poderá testar seus conhecimentos e também conhecer um pouco mais da história de grande mulheres sambistas na tentativa de decifrar o nome da cada artista . 
 
-## Planejamento  
+## Conteúdo da Interface :
 * Interface de Usuário utilizando (HTMLSemântico/CSS/JS CipherJS/DOM)
 * (Imagem de Entrada)(Boas-Vindas)(Tema o Site)(Explicação sobre o tema e decifragem para o usuário)(Conteúdo do site com Biografia)
 * (Caixa de mensagem para o usuário escrever o nome onde poderá ser criptografado ou descriptografado utilizando a cifra de césar)
 * (Mostrar resultados (respostas criptografado e descriptografado)(Botão de deslocamento em 4 posições.(html<select> <option> ID) (index.Js offset,)
 * (Botões de criptografar e descriptografar.(html<button>)(Index.Js getElementById, funticion, addEventListener, preventDefault, valeu)(Cipher.Js .Encode e Decode, for , let , if ,var, charCodeat e formCharCode).
-* (Link de acesso a outra plataforma(html<a href><target blank>) 
+* (Link de acesso a outra plataforma) 
