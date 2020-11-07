@@ -5,7 +5,7 @@ import cipher from '../src/cipher';
 describe('cipher', () => {
 
   it('should be an object', () => {
-    expect(typeof cipher).toBe('object');
+    expect(cipher).toBe('object');
   });
 
   describe('cipher.encode', () => {

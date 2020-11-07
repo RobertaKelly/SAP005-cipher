@@ -1,9 +1,9 @@
 body {
     background-color: black;
-  margin: 10px;
+    margin: 10px;
 
 }
-figure{
+figure {
     border: thin #30e40d solid;
     display: flex;
     flex-flow: column;
@@ -23,6 +23,7 @@ h1{
 }
 
 li {
+    text-align: left;
     background-color: rgb(38, 172, 11);
     border: 2px solid black;
 
@@ -43,5 +44,6 @@ button {
     background-color:green;
     margin-bottom: 1px;
     padding: 8px 10px;
+    
 
 }
