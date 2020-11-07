@@ -32,4 +32,4 @@ O usuário poderá testar seus conhecimentos e também conhecer um pouco mais da
 
 # Mulheres Sambistas :
 
-●Essa Interface oferece ao usuário decifrar o nome de grandes Mulheres Sambistas através da sua Biografia, utilizando uma Ferramenta de Criptografia e Descriptografia com a Cifra de César contendo também um link de acesso para uma plataforma onde o usuário pode ouvir toda a sua discografia. 
+* Essa Interface oferece ao usuário decifrar o nome de grandes Mulheres Sambistas através da sua Biografia, utilizando uma Ferramenta de Criptografia e Descriptografia com a Cifra de César contendo também um link de acesso para uma plataforma onde o usuário pode ouvir toda a sua discografia. 
