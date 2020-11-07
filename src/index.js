@@ -1,34 +1,28 @@
 import cipher from './cipher.js';
 
-function Criptografarmsg(event) { 
-    event.preventDefault()
-    const textcrypto = document.getElementById("textcrypto").value;
-    const cryptoffset = parseInt(document.getElementById ("cryptoffset")).value;
-    const resultcrypto = document.getElementById("resultcrypto");
- for (let i=0; i<=textcrypto.length;1++) {
-     
- }
-
-}
-
-function Decriptografar(event) { 
-    event.preventDefault()
-    const textdecrypto = document.getElementById("textdecrypto").value;
-    const cryptoffset = parseInt(document.getElementById ("decryptoffset")).value;
-    const resultdecrypto = document.getElementById("resultdecrypto");
-}
-
-
 //botão para Criptografar. 
-let btn = document.getElementById("submit1")
-btn.addEventListener('click', textcrypto);
+let button1 = document.getElementById("btncrypto")
+button1.addEventListener("click", function(evt) {
+   evt.preventDefault()
+   let textcrypto = document.getElementById("cxmensagem").value;
+   let cryptoffset = Number(document.getElementById("number-offset").value);
+   let textcryptostr =textcrypto.toString().toUpperCase();
+   document.getElementById("cxmensagem").value = cipher.encode(cryptoffset,textcryptostr)
+  
+
+} );
+
 
 
 //botão para Descriptografar 
-let btn = document.getElementById("submit2")
-btn2.addEventListener('click', textdecrypto);
+let button2 = document.getElementById("btndecrypto")
+button2.addEventListener("click", function(evt) {
+    evt.preventDefault()
+    let textdecrypto = document.getElementById("cxmensagem").value;
+    let decryptoffset = Number(document.getElementById ("number-offset").value);
+    let textdecryptostr = textdecrypto.toString().toUpperCase();
+    document.getElementById("cxmensagem").value = cipher.decode(decryptoffset,textdecryptostr)
+ 
 
-document.getElementById()
+} );
 
-
-console.log(cipher);

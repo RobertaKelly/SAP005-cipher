@@ -1,8 +1,8 @@
-body { 
+body {
     background-color: black;
   margin: 10px;
 
-}   
+}
 figure{
     border: thin #30e40d solid;
     display: flex;
@@ -10,32 +10,32 @@ figure{
     margin: auto;
 }
 
-h2 { 
+h2 {
     text-align: center;
     background-color: rgb(20, 153, 8);
-    
+
 }
 h1{
     text-align: center;
     border: 2px solid rgb(31, 233, 31);
-    color: #fff;
-    
+    color: rgb(140, 113, 113);
+
 }
 
 li {
     background-color: rgb(38, 172, 11);
     border: 2px solid black;
-    
+
 }
 
-input {
-    text-align: right;
+p {
+    text-align: center;
     margin: 20px;
     padding: 50px 25px;
-    
+
 }
-    
-div { 
+
+div {
     text-align: center;
 }
 
