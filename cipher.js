@@ -27,13 +27,13 @@ const cipher = {
     var novocodigo = ((codigo - 90 - offset)% 26 +90)
     resultado += String.fromCharCode(novocodigo); 
     } 
-    else {
+     else {
       resultado += String.fromCharCode(codigo);
     }
   
    
     }
-   return resultado; 
+    return resultado; 
   }
  };
 
