@@ -21,7 +21,10 @@
 ## Desenho da Pagina 
 ![Desenho da Pagina](https://github.com/RobertaKelly/SAP005-cipher/blob/master/Desenho%20da%20Pagina%20.png)
 
-## Foto da Pagina 
+
+## Acesse a Pagína : 
+ https://robertakelly.github.io/SAP005-cipher/
+ 
 ![Foto da Pagina](https://github.com/RobertaKelly/SAP005-cipher/blob/master/Foto%20Pagina%20Mulheres%20Sambistas.jpg)
 
 ## Conteúdo da Interface :
@@ -31,6 +34,7 @@
 * (Mostrar resultados (respostas criptografado e descriptografado)(Botão de deslocamento em 4 posições.(html<select> <option> ID) (index.Js offset,)
 * (Botões de criptografar e descriptografar.(html<button>)(Index.Js getElementById, funticion, addEventListener, preventDefault, valeu)(Cipher.Js .Encode e Decode, for , let , if ,var, charCodeat e formCharCode).
 * (Link de acesso a outra plataforma) 
+  
 
 
 
